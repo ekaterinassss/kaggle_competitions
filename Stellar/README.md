@@ -89,8 +89,8 @@ Model performance is evaluated using classification metrics such as:
 
 ### 1) Clone repository
 ```bash
-git clone https://github.com/ekaterinassss/ml_assignments.git
-cd ml_assignments/stellar_classification
+git clone https://github.com/ekaterinassss/kaggle_competitions.git
+cd kaggle_competitions/Stellar
 ```
 
 ### 2) Create virtual environment
