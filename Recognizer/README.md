@@ -8,7 +8,7 @@ The goal is to build a machine learning model that classifies handwritten digits
 The dataset contains transformed images of digits taken from different fonts. The images are distorted, scaled, rotated, and placed on random backgrounds, making the classification task more challenging.
 
 Competition link:  
-🔗 https://www.kaggle.com/competitions/25-hse-recognizer/overview
+https://www.kaggle.com/competitions/25-hse-recognizer/overview
 
 
 ## Task Description
@@ -65,8 +65,8 @@ The project applies machine learning classification techniques to distinguish be
 
 ### 1) Clone repository
 ```bash
-git clone https://github.com/ekaterinassss/ml_assignments.git
-cd ml_assignments/digit_recognizer
+git clone https://github.com/ekaterinassss/kaggle_competitions.git
+cd kaggle_competotions/Recognizer
 ```
 
 ### 2) Create virtual environment
