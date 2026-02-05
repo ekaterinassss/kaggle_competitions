@@ -1,4 +1,4 @@
-# Vehicle MPG and Price Prediction
+# Auto (Vehicle MPG and Price Prediction)
 
 ## Project Overview
 
