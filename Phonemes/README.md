@@ -85,8 +85,8 @@ Model performance is evaluated using classification metrics such as:
 
 ### 1) Clone repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ml_assignments.git
-cd ml_assignments/phoneme_classification
+git clone https://github.com/ekaterinassss/kaggle_competitions.git
+cd kaggle_competitions/Phonemes
 ```
 
 ### 2) Create virtual environment
