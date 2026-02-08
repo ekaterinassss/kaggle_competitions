@@ -17,7 +17,7 @@ Binary image classification task based on distorted MNIST-style digit images.
 
 Folder: `Recognizer`
 
----
+
 
 ### Phoneme Classification
 Speech signal classification using acoustic spectral features.
@@ -30,7 +30,8 @@ Speech signal classification using acoustic spectral features.
 
 Folder: `Phonemes`
 
----
+
+
 
 ### Vehicle MPG and Price Prediction
 Multi-target regression task predicting automobile efficiency and price.
@@ -47,6 +48,7 @@ Multi-target regression task predicting automobile efficiency and price.
 Folder: `Auto`
 
 
+
 ### Bacteria DNA Sequence Classification
 Genomic sequence classification problem.
 
@@ -58,6 +60,7 @@ Genomic sequence classification problem.
   https://www.kaggle.com/competitions/25-hse-genomics/overview
 
 Folder: `Genomics`
+
 
 
 ### Stellar Object Classification
@@ -73,6 +76,7 @@ Astronomical object classification based on spectral features.
   https://www.kaggle.com/competitions/25-hse-stellar/overview
 
 Folder: `Stellar`
+
 
 
 ### Particle Entry Position Reconstruction
