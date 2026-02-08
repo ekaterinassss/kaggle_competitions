@@ -6,10 +6,10 @@ This project focuses on classifying bacterial species based on DNA sequence data
 
 The goal is to build a machine learning model that distinguishes between two bacteria classes using genomic sequences composed of nucleotide symbols.
 
-The project was completed as part of an in-class Kaggle competition.
+The project is based on a Kaggle competition.
 
 Competition link:  
-🔗 https://www.kaggle.com/competitions/25-hse-genomics/overview
+https://www.kaggle.com/competitions/25-hse-genomics/overview
 
 
 ## Context
@@ -24,7 +24,7 @@ This project applies machine learning techniques to classify bacterial species b
 The dataset is based on the **Genomics OOD dataset** provided by TensorFlow.
 
 Dataset source:  
-🔗 https://www.tensorflow.org/datasets/catalog/genomics_ood
+https://www.tensorflow.org/datasets/catalog/genomics_ood
 
 Each observation represents a DNA sequence consisting of nucleotide symbols:
 
