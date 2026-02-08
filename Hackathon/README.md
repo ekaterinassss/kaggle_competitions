@@ -6,7 +6,7 @@ This project focuses on reconstructing the entry position of particles in an ele
 
 The goal is to predict the spatial coordinates **(x, y)** of particle entry based on energy deposits recorded in calorimeter detector cells.
 
-The project was completed as part of a Kaggle competition focused on particle detector data analysis.
+This project is based on the Kaggle competition.
 
 Competition link:  
 https://www.kaggle.com/competitions/ml-1-hackathon/overview
@@ -92,7 +92,7 @@ Lower MCRMSE indicates better spatial reconstruction accuracy.
 ### 1) Clone repository
 ```bash
 git clone https://github.com/ekaterinassss/kaggle_competitions.git
-cd kaggle_competitions/Hackathon_solution
+cd kaggle_competitions/Hackathon
 ```
 
 ### 2) Create virtual environment
