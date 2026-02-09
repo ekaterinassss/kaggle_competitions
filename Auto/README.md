@@ -27,18 +27,18 @@ The task is a **multi-target regression problem** where models must simultaneous
 - `price` — vehicle market price
 
 
-## 📊 Dataset
+## Dataset
 
 The dataset was derived from a larger automobile dataset available on OpenML.
 
 Original dataset source:  
-🔗 https://www.openml.org/search?type=data&sort=runs&id=1189&status=active
+https://www.openml.org/search?type=data&sort=runs&id=1189&status=active
 
 The competition dataset contains vehicle characteristics such as engine parameters, body specifications, and performance features.
 
 
 
-## 🔍 Project Workflow
+## Project Workflow
 
 - Data loading and preprocessing
 - Feature analysis
